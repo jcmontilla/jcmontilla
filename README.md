@@ -1,4 +1,10 @@
-## Hi there 👋
+¿Qué más, parcero?
+
+Soy Juan Camilo, ingeniero en automática industrial. Este es mi rincón en GitHub, donde voy dejando los proyectos que he ido armando entre la U, el trabajo y esos ratos donde me entra la curiosidad y me pongo a aprender algo nuevo.
+
+Aquí no vas a encontrar un portafolio perfecto ni todo súper pulido. Más bien es el reflejo de mi proceso: proyectos de automatización, control, programación, bases de datos… en general, todo lo que tenga que ver con la industria 4.0, que es lo que más me gusta y me mueve.
+
+La idea es que este espacio sea útil, honesto y, sobre todo, bacano de recorrer. Si te gusta la ingeniería sin tanta vuelta, bienvenido. Y si algo de lo que ves por acá te genera curiosidad o te da ideas, escríbeme sin pena.
 
 <!--
 **jcmontilla/jcmontilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
