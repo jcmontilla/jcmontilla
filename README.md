@@ -1,4 +1,4 @@
-¿Qué más, parcero?
+¿Qué más, parceros?
 
 Soy Juan Camilo, ingeniero en automática industrial. Este es mi rincón en GitHub, donde voy dejando los proyectos que he ido armando entre la U, el trabajo y esos ratos donde me entra la curiosidad y me pongo a aprender algo nuevo.
 
