@@ -1,11 +1,10 @@
 ¿Qué más, parceros?
 
-Soy Juan Camilo, ingeniero en automática industrial. Este es mi rincón en GitHub, donde voy dejando los proyectos que he ido armando entre la U, el trabajo y esos ratos donde me entra la curiosidad y me pongo a aprender algo nuevo.
+I’m Juan Camilo, an industrial automation engineer. This is my little corner on GitHub, where I post the projects I’ve been putting together between uni, work and those moments when curiosity gets the better of me and I start learning something new.
 
-Aquí no vas a encontrar un portafolio perfecto ni todo súper pulido. Más bien es el reflejo de mi proceso: proyectos de automatización, control, programación, bases de datos… en general, todo lo que tenga que ver con la industria 4.0, que es lo que más me gusta y me mueve.
+You won’t find a perfect portfolio here, nor will everything be super polished. Rather, it’s a reflection of my process: automation, control, programming and database projects… generally, anything to do with Industry 4.0, which is what I love most and what drives me.
 
-La idea es que este espacio sea útil, honesto y, sobre todo, bacano de recorrer. Si te gusta la ingeniería sin tanta vuelta, bienvenido. Y si algo de lo que ves por acá te genera curiosidad o te da ideas, escríbeme sin pena.
-
+The idea is for this space to be useful, honest and, above all, a fun place to explore. If you like engineering without all the fuss, welcome. And if anything you see here sparks your curiosity or gives you ideas, feel free to drop me a line.
 <!--
 **jcmontilla/jcmontilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
