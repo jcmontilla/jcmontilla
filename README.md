@@ -4,7 +4,7 @@ I’m Juan Camilo, an industrial automation engineer. This is my little corner o
 
 You won’t find a perfect portfolio here, nor will everything be super polished. Rather, it’s a reflection of my process: automation, control, programming and database projects… generally, anything to do with Industry 4.0, which is what I love most and what drives me.
 
-The idea is for this space to be useful, honest and, above all, a fun place to explore. If you like engineering without all the fuss, welcome. And if anything you see here sparks your curiosity or gives you ideas,
+The idea is for this space to be useful, honest and, above all, a fun place to explore. If you like engineering without all the fuss, welcome. And if anything you see here sparks your curiosity or gives you ideas.
 <!--
 **jcmontilla/jcmontilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
